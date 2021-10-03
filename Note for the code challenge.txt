@@ -1,3 +1,5 @@
+Time taken to complete the challenge: the entire 4 hours.
+
 The function to convert roman nuerals to decimal is working properly. 
 However, I took me the longest time to figure out how should I convert decimal to roman numerals and I couldn't figure it out even after the time ran out.
 My initial thoughts are to take the remiander of the given input number by dividing it with the roman numerals. Once the remainder is collected
